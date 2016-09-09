@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget xmlns="http://www.w3.org/ns/widgets"
-        id="com.wino.wino"
+        id="com.wino.sender"
         version="2.0.1"
-        android-packageName="com.wino.wino"
+        android-packageName="com.wino.sender"
         android-versionCode="2">
   <name>Homoola maps</name>
   <description>Examples for the Tabris.js maps custom widget.</description>
